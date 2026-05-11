@@ -1,5 +1,6 @@
 
-                                                             Nexify 🌐
+
+Nexify 🌐
 
 
 O Nexify é um website desenvolvido com foco em design moderno, responsividade e experiência do usuário.
